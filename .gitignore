@@ -1,5 +1,23 @@
+# Build results
 bin/
 obj/
-/packages/
+
+# NuGet packages
+packages/
+
+# Rider project files
+*.sln.iml
+*.Rider/
+*.idea/
 riderModule.iml
 /_ReSharper.Caches/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.DotSettings.user
+
+# VS Code / JetBrains IDE caches
+.vscode/
+.idea/
